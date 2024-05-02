@@ -201,4 +201,6 @@ button {
 
 #html-checker-img, #css-checker-img {
     width: 5vw;
+    position: relative;
+    left: 1vw;
 }
